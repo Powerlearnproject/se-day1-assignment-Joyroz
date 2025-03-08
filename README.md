@@ -15,6 +15,17 @@ Reliability - ensures that the required processes are executed
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+1. The Emergence of Structured Programming (1960s–1970s)
+In the 1960s and 1970s, the development of structured programming marked a major shift in how software was written. Before this, software development was often chaotic, with programs consisting of long sequences of unstructured code that were difficult to maintain or debug. The structured programming movement, led by figures such as Edsger Dijkstra and others, emphasized the importance of control structures like loops, conditionals, and subroutines to organize code. This approach reduced the complexity of software and made it more understandable and maintainable. The "Go To" statement was heavily criticized, and structured programming promoted alternatives that improved program clarity and reduced errors.
+Impact: It laid the groundwork for modern programming practices, making software more reliable and scalable.
+
+2. The Introduction of the Waterfall Model (1970s)
+In 1970, Winston W. Royce introduced the Waterfall model in his paper on software development. The Waterfall model became one of the earliest formalized frameworks for software engineering. It structured software development into distinct phases: requirement gathering, system design, implementation, testing, deployment, and maintenance. Each phase would be completed before moving on to the next, which helped standardize the process and made it easier to manage large-scale software projects.
+Impact: The Waterfall model formalized the idea of systematic project management in software engineering and became a foundation for later development models.
+
+3. The Agile Manifesto (2001)
+In 2001, the Agile Manifesto was published by a group of software developers, marking a revolutionary shift away from traditional heavyweight processes like the Waterfall model. Agile introduced a more flexible, iterative approach to software development, focusing on delivering small, incremental improvements to software. It emphasized collaboration, customer feedback, and rapid adaptation to change. Key principles of Agile include working software over comprehensive documentation, responding to change over following a plan, and individuals and interactions over processes and tools.
+Impact: Agile methods have since transformed software development, leading to widespread adoption of frameworks like Scrum and Kanban. The focus on collaboration and adaptability has enabled faster delivery of high-quality software and a more dynamic approach to handling project requirements.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 Planning - Identifying purpose of the software and the scope
